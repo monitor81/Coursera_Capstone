@@ -1,1 +1,1 @@
-# Coursera_Capstone
+# Final project on Coursera
